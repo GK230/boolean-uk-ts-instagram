@@ -1,0 +1,5 @@
+{
+    "/posts": "/posts?_embed=comments",
+    "/posts/*": "/posts/$1?_embed=comments"
+  }
+  
