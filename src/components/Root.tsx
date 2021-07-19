@@ -1,13 +1,17 @@
 import React from "react";
+import HeaderSection from "./HeaderSection";
+import MainSection from "./MainSection";
 
 function Root() {
   return (
     <div id="root">
-      <header className="main-header">
+      {/* <header className="main-header"> */}
         {/* <!-- Go to 2-header-section.html --> */}
-      </header>
+        <HeaderSection />
+      {/* </header> */}
       <main className="wrapper">
         {/* <!-- Go to 3-header-section.html --> */}
+        <MainSection />
       </main>
     </div>
   );

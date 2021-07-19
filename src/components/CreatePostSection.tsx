@@ -22,7 +22,7 @@ function CreatePostSection() {
       <div className="post">
         {/* <!-- Go to post.html and scroll down to the preveiw cards --> */}
       </div>
-      {/* <!-- htmlFor THE CHALLENGE END --> */}
+      {/* <!--For THE CHALLENGE END --> */}
     </section>
   );
 }
